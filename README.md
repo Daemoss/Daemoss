@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Dimosthenes
-- 🌱 I'm polishing my <i>front-end<i> skills
-- 📫 Contact me: dsachpazides@gmail.com
+Hello! My name is Demosthenes 😁
 
 
 <!---
